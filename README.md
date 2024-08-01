@@ -1,1 +1,1 @@
-Hola, este es un archivo README de prueba, que tenga un precioso día!!!
+Esta es la guía completa, que tenga unas muy bonitas vacaciones Inge!!!
