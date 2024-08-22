@@ -8,4 +8,5 @@ let datos = readline.createInterface(
 datos.question('Ingrese un texto cualquiera: ',(texto)=>{
     const numCaracteres = texto.length
     console.log(`El número de caracteres del texto escrito es de: ${numCaracteres}`)
+    datos.close()// falto el cierre de la interfaz de entrada y salida
 })
