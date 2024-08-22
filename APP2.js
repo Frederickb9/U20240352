@@ -8,5 +8,6 @@ let datos = readline.createInterface(
 datos.question('Ingrese su nombre: ',(nombre)=>{
     datos.question('Ingrese su apellido: ',(apellido)=>{
         console.log('Hola, ' + nombre + ' ' + apellido)
+        datos.close()// falto el cierre de la interfaz de entrada y salida
     })
 })
