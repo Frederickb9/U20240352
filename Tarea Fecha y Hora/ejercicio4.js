@@ -9,4 +9,4 @@ let fecha1 = '1971-06-26'
 let fecha2 = '1977-03-20'
 
 let diasDiferencia = diferenciaDias(fecha1, fecha2)
-console.log(`La diferencia de días entre las dos fechas es: ${diasDiferencia} días`) 
+console.log(`La diferencia de días entre las dos fechas es: ${diasDiferencia} días`)
