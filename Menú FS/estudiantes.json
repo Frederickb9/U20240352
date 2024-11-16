@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Frederick Benavidez",
+    "edad": 18,
+    "carrera": "Ing. Desarrollo de Software."
+  },
+  {
+    "nombre": "Luis Lino",
+    "edad": 17,
+    "carrera": "Enfermeria"
+  },
+  {
+    "nombre": "Jose Gutierrez",
+    "edad": 19,
+    "carrera": "Lic. Enfermeria"
+  }
+]
